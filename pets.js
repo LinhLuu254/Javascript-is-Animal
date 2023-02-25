@@ -44,7 +44,7 @@ petsData.unshift({
     weightInKilos: 28,
     breed: "Greyhound",
     pic: "carmie.png"
-});
+});git 
 
 // Now add a pet to the end of the array
 petsData.push({
