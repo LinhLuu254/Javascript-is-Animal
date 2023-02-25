@@ -43,7 +43,7 @@ petsData.unshift({
     age: 3,
     weightInKilos: 28,
     breed: "Greyhound",
-    pic: "images\\carmie.png"
+    pic: "carmie.png"
 });
 
 // Now add a pet to the end of the array
@@ -52,7 +52,7 @@ petsData.push({
     age: 3,
     weightInKilos: 0.3,
     breed: "Mali Uromastyx",
-    pic: "images\\copper.png"
+    pic: "copper.png"
 });
 
     // Add the content of our array to DOM
